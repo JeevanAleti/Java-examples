@@ -19,7 +19,7 @@ public class PrintNumbers {
 	/**
 	 * @param args
 	 */
-	//this is a sample one from jeevan
+	//this is a sample one from jeevan reddy
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		for(int i=1 ; i<=10; i++) {
